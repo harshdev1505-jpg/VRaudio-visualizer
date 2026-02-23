@@ -1,0 +1,5 @@
+{
+  "name": "MotionVis",
+  "description": "A web-based motion graphics editor and audio visualizer.",
+  "requestFramePermissions": []
+}
